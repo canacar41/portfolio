@@ -1,0 +1,116 @@
+blog kısmı tam kodu
+
+
+
+<!-- Blog -->
+          <div class="content blog">
+
+            <!-- title -->
+            <div class="title">
+              <span >Videolar</span>
+            </div>
+
+            <div class="videobar">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/FNOn6OZm76M?si=-4B_ud8sC5oZQ9ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+
+
+            <!-- content -->
+            <div class="row border-line-v" >
+              <!-- blog item -->
+              <div class="col-md-6 col-sm-12" >
+                <div class="box-item">
+                  <div class="image">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/FNOn6OZm76M?si=-4B_ud8sC5oZQ9ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                  </div>
+                  <div class="desc">
+                    <a href="#">
+                      <span class="date">Kasım 24, 2021</span>
+                    </a>
+                    <a href="#" class="name">İçerik Kanalı : Elraenn</a>
+                    <div class="text">
+                      <p>Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos&#8230;</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- blog item -->
+              <div class="col-md-6 col-sm-12">
+                <div class="box-item">
+                  <div class="image">
+                    <a href="#">
+                      <img src="img/blog2.jpg" alt="" class="img-fluid"/>
+                    
+                    </a>
+                  </div>
+                  <div class="desc">
+                    <a href="#">
+                      <span class="date">April 28, 2020</span>
+                    </a>
+                    <a href="#" class="name">By spite about do of allow</a>
+                    <div class="text">
+                      <p>Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos&#8230;</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- blog item -->
+              <div class="col-md-6 col-sm-12">
+                <div class="box-item">
+                  <div class="image">
+                    <a href="#">
+                      <img src="img/blog3.jpg" alt="" class="img-fluid"/>
+                      
+                    </a>
+                  </div>
+                  <div class="desc">
+                    <a href="#">
+                      <span class="date">April 28, 2020</span>
+                    </a>
+                    <a href="#" class="name">By spite about do of allow</a>
+                    <div class="text">
+                      <p>Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos&#8230;</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- blog item -->
+              <div class="col-md-6 col-sm-12">
+                <div class="box-item">
+                  <div class="image">
+                    <a href="#">
+                      <img src="img/blog4.jpg" alt="" class="img-fluid"/>
+                      
+                    </a>
+                  </div>
+                  <div class="desc">
+                    <a href="#">
+                      <span class="date">April 28, 2020</span>
+                    </a>
+                    <a href="#" class="name">By spite about do of allow</a>
+                    <div class="text">
+                      <p>Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos&#8230;</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clear"></div>
+          <!-------blogs-content-close---->
+
+
+          
+<div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+    <div class="tab-content-inner">
+     
+                    <!--
+            Conacts Info
+          -->
+          <div class="content contacts">
+
+            <!-- title -->
+            <div class="title">Becerilerim</div>
+
+           
+     
+    </div>
+    </div>
